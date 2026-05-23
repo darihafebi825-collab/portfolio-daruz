@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-daruz/static/css/main.2ec631dc.css",
-    "main.js": "/portfolio-daruz/static/js/main.4a604b39.js",
+    "main.js": "/portfolio-daruz/static/js/main.ee630ccb.js",
     "index.html": "/portfolio-daruz/index.html",
     "main.2ec631dc.css.map": "/portfolio-daruz/static/css/main.2ec631dc.css.map",
-    "main.4a604b39.js.map": "/portfolio-daruz/static/js/main.4a604b39.js.map"
+    "main.ee630ccb.js.map": "/portfolio-daruz/static/js/main.ee630ccb.js.map"
   },
   "entrypoints": [
     "static/css/main.2ec631dc.css",
-    "static/js/main.4a604b39.js"
+    "static/js/main.ee630ccb.js"
   ]
 }
