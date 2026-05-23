@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-daruz/static/css/main.78d82132.css",
+    "main.js": "/portfolio-daruz/static/js/main.e925fc2b.js",
+    "index.html": "/portfolio-daruz/index.html",
+    "main.78d82132.css.map": "/portfolio-daruz/static/css/main.78d82132.css.map",
+    "main.e925fc2b.js.map": "/portfolio-daruz/static/js/main.e925fc2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78d82132.css",
+    "static/js/main.e925fc2b.js"
+  ]
+}
